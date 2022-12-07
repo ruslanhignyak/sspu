@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a31c01e0.css",
+    "main.js": "/static/js/main.3e688613.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/albums.png": "/static/media/albums.29f8b9707470df7e750f.png",
+    "static/media/album-cover-3.jpg": "/static/media/album-cover-3.904447230892ad13d86a.jpg",
+    "static/media/album-cover-5.jpg": "/static/media/album-cover-5.c4e918b1fc1b64327ce5.jpg",
+    "static/media/album-cover-8.jpg": "/static/media/album-cover-8.626ba631bc039af0767c.jpg",
+    "static/media/album-cover-7.jpg": "/static/media/album-cover-7.8d094e00cb2e4f683fb1.jpg",
+    "static/media/album-cover-4.jpg": "/static/media/album-cover-4.fa5f8646ced55ad1cdd0.jpg",
+    "static/media/album-cover-6.jpg": "/static/media/album-cover-6.2334c4901b0d65bd824d.jpg",
+    "static/media/Jamiroquai.jpg": "/static/media/Jamiroquai.124dad251be85cc9ed6c.jpg",
+    "static/media/album-cover-2.jpg": "/static/media/album-cover-2.058aabf60728adb10e2b.jpg",
+    "static/media/album-cover-1.jpg": "/static/media/album-cover-1.eb78961c6fae193d0484.jpg",
+    "index.html": "/index.html",
+    "main.a31c01e0.css.map": "/static/css/main.a31c01e0.css.map",
+    "main.3e688613.js.map": "/static/js/main.3e688613.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a31c01e0.css",
+    "static/js/main.3e688613.js"
+  ]
+}
